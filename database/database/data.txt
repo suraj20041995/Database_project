@@ -1,7 +1,7 @@
 Name                       | I.T | roll | Interest
 Suraj Kesharwani           | I.T |  8   | coding
-Vipul Gandu                | C.s | 67   | gandupanti
+Vipul Gandu                | C.s | 67   | gahgnh
 Dhalchand Kumar            | I.T |  9   | Paisa
-Gajanand                   | I.T |  36  | randirona
-Sujit                      | I.T | 90   | chutiyapa
+Gajanand                   | I.T |  36  | rdthf
+Sujit                      | I.T | 90   | chuddjyr
 Sachin verma               | I.T | 45   | coder
